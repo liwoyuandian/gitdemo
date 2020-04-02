@@ -1,4 +1,4 @@
-# 简单密码
+# filename: fileinfo.py
 x=int(input())
 a=int(input())
 b=int(input())
